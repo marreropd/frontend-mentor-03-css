@@ -103,7 +103,7 @@ svg{
     margin-right:  .6rem;
 }
 
-@media screen and (min-width: 470px) {
+@media screen and (min-width: 600px) {
     #product-img-mobile {
         display: none;
         
