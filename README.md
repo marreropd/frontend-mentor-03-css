@@ -1,13 +1,17 @@
 ## Welcome! 👋
 
-This is a code challenge
+Product preview card component 
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+Challenge from [Frontend Mentor](https://www.frontendmentor.io/)
 
 Moblie Screenshot
+
+
 ![mobile screenshot](image.png)
 
 Desktop Screenshot
+
+
 ![desktop screenshot](image-1.png)
 
 The challenge
@@ -21,4 +25,3 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
